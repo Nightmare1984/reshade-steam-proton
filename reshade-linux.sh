@@ -1,6 +1,6 @@
 #!/bin/bash
 cat > /dev/null <<LICENSE
-    Copyright (C) 2021-2022  kevinlekiller
+    Copyright (C) 2021-2025 Nightmare1984
 
     This program is free software; you can redistribute it and/or
     modify it under the terms of the GNU General Public License
